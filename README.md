@@ -1,0 +1,5 @@
+Projekt uporablja STM32H750B mikrokrmilnik in TouchGFX za realizacijo nadzornega sistema za osvetlitev in temperaturo bazena. Grafični uporabniški vmesnik na LCD zaslonu omogoča uporabniku, da z zaslonskimi gumbi vklaplja ali izklaplja luči v bazenu in nastavlja temperaturo. Rezultate simuliramo z LED diodo na razvojni plošči, ki se prižge ali ugasne glede na ukaze iz vmesnika. Več informacij najdete v naloženi PDF datoteki.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The project uses STM32H750B microcontroller and TouchGFX to control the lighting and temperature pool control system. The graphic user interface on the LCD screen allows the user to use the buttons on the screen to turn on or turn off the lights in the pool and set the temperature. The results are simulated with an LED diode on the development board, which turns on or off according to commands from the interface. More information can be found in the uploaded PDF file.

@@ -1,0 +1,8 @@
+../../TouchGFX/gui/include/gui/pooltemp_screen/PoolTempPresenter.hpp:15:13:PoolTempPresenter::~PoolTempPresenter()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/pooltemp_screen/PoolTempPresenter.cpp:15:6:virtual void PoolTempPresenter::deactivate()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/pooltemp_screen/PoolTempPresenter.cpp:19:6:virtual void PoolTempPresenter::poolTemperatureChanged()	1
+../../TouchGFX/gui/include/gui/pooltemp_screen/PoolTempPresenter.hpp:15:13:virtual PoolTempPresenter::~PoolTempPresenter()	1
+../../TouchGFX/gui/include/gui/pooltemp_screen/PoolTempPresenter.hpp:15:13:virtual void* PoolTempPresenter::_ZThn4_N17PoolTempPresenterD1Ev()	1
+../../TouchGFX/gui/include/gui/pooltemp_screen/PoolTempPresenter.hpp:15:13:virtual void* PoolTempPresenter::_ZThn4_N17PoolTempPresenterD0Ev()	1
+../../TouchGFX/gui/include/gui/pooltemp_screen/PoolTempPresenter.hpp:17:18:virtual void PoolTempPresenter::_ZThn4_N17PoolTempPresenter22poolTemperatureChangedEv()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/pooltemp_screen/PoolTempPresenter.cpp:4:1:PoolTempPresenter::PoolTempPresenter(PoolTempView&)	1

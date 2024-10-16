@@ -1,0 +1,9 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:56:18:virtual void ModelListener::poolTemperatureChanged()	1
+../../TouchGFX/gui/include/gui/main_screen/MainPresenter.hpp:15:13:MainPresenter::~MainPresenter()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/main_screen/MainPresenter.cpp:14:6:virtual void MainPresenter::deactivate()	1
+../../TouchGFX/gui/include/gui/main_screen/MainPresenter.hpp:15:13:virtual MainPresenter::~MainPresenter()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/main_screen/MainPresenter.cpp:9:6:virtual void MainPresenter::activate()	1
+../../TouchGFX/gui/include/gui/main_screen/MainPresenter.hpp:15:13:virtual void* MainPresenter::_ZThn4_N13MainPresenterD1Ev()	1
+../../TouchGFX/gui/include/gui/main_screen/MainPresenter.hpp:15:13:virtual void* MainPresenter::_ZThn4_N13MainPresenterD0Ev()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/main_screen/MainPresenter.cpp:4:1:MainPresenter::MainPresenter(MainView&)	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/main_screen/MainPresenter.cpp:18:6:void MainPresenter::setPoolLight(bool)	1

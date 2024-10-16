@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:4:1:Model::Model()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:9:6:void Model::tick()	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:13:6:void Model::userSetPoolLight(bool)	1
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:18:6:void Model::userSetTemperature(uint32_t)	1
